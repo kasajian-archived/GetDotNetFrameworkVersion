@@ -1,4 +1,5 @@
 // Converted from ReleaseVersionMap.json by http://json2csharp.com/
+// https://github.com/shanselman/SmallestDotNet/blob/68132e56a6c07ee2c528b8098bdd531d72bb0dd8/SmallestDotNetLib/Constants.cs
 
 
 public class Release
